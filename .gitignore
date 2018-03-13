@@ -1,3 +1,11 @@
+# IDE
+.idea
+
+# Gatsby
+node_modules/
+.cache/
+public/
+
 # Logs
 logs
 *.log
