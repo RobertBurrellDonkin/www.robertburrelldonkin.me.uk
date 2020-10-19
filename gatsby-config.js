@@ -1,8 +1,10 @@
+/**
+ * Configure your Gatsby site with this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/gatsby-config/
+ */
+
 module.exports = {
-    plugins: [
-        {
-            resolve: "gatsby-plugin-no-sourcemaps"
-        },
-        `gatsby-plugin-typography`
-    ]
-};
+  /* Your site config here */
+  plugins: [],
+}
