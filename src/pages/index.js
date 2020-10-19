@@ -1,5 +1,5 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <div style={{textAlign: "center"}}><h1>Coming Soon</h1></div>
 }
